@@ -1,0 +1,22 @@
+*{
+    
+}
+
+body{
+    background-color: rgb(183, 248, 226);
+    color: rgb(37, 117, 93);
+}
+h1{ 
+    color: rgb(45, 92, 92);
+    text-align:center
+}
+h2{
+    color: rgb(58, 131, 80)
+}
+h3{
+    color: rgb(41, 145, 110);
+}
+
+footer{
+    color: rgb(16, 44, 35);
+}
