@@ -1,11 +1,20 @@
-*{
-
+html{ 
+    text-align: center;
+    background-image: url("FONDO.jpg");
+    background-size: cover;
+   }
+.centrar-listas {
+    text-align: center;
 }
-
-body{
-    background-color: rgb(183, 248, 226);
-    color: rgb(124, 38, 124);
-  }
+.centrar-listas ul,
+.centrar-listas ol {
+    text-align: left;
+    display: inline-block;
+}
+head{
+    table.background { background-image: url("fondo tabla.jpg");}
+    
+}
 h1{ 
     color: rgb(103, 27, 133);
     text-align:center
@@ -17,7 +26,6 @@ h2{
 h3{
     color: rgb(124, 13, 128);
 }
-
 footer{
     color: rgb(70, 13, 62);
 }
