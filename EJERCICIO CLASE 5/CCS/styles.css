@@ -2,6 +2,8 @@ html{
     text-align: center;
     background-image: url("FONDO.jpg");
     background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
    }
 .centrar-listas {
     text-align: center;
@@ -11,21 +13,22 @@ html{
     text-align: left;
     display: inline-block;
 }
-head{
-    table.background { background-image: url("fondo tabla.jpg");}
-    
-}
+.table.background { background-image: url("fondo tabla.jpg");}
 h1{ 
-    color: rgb(103, 27, 133);
-    text-align:center
+    color: rgb(78, 76, 79);
+    text-align:center;
+    background-color: #893d214a;
+    
 }
 h2{
-    color: #9634c4
-    
+    color: #4e4b4fdf;
+    background-color: #a44d2e2a;
 }
 h3{
-    color: rgb(124, 13, 128);
+    color: #4e4b4fdf;
+    background-color: #cc5e3628;
 }
 footer{
     color: rgb(70, 13, 62);
+    background-color: #cc5e3628;
 }
