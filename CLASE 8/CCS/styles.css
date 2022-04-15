@@ -1,0 +1,22 @@
+html{ 
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+   }
+body{
+    background: rgb(2,0, 36);
+    background: pink
+}
+h1{
+    color: #f08080;
+    text-align: center;
+}
+h1:hover{
+    animation: bounce;
+    animation-duration: 2s;
+}
+
+.container {
+    display:grid;
+}
+}
